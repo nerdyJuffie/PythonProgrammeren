@@ -1,6 +1,11 @@
-(intro)=
-# Welcome to the Template Book
 
-_This is the first page the student will see when opening the url._
+# Programmeren in Python
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+```{figure} https://town-n-country-living.com/wp-content/uploads/2023/06/craftsman-exterior.jpg
+---
+width: 80%
+align: center
+---
+<caption>
+```
+
