@@ -6,6 +6,6 @@
 width: 80%
 align: center
 ---
-<caption>
+<caption text>
 ```
 
