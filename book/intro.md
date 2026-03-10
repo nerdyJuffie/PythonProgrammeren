@@ -1,9 +1,11 @@
 
 # Programmeren in Python
 
+
+
 ```{figure} figures/python_logo.jpeg
 ---
-width: 80%
+width: 50%
 align: center
 ---
 <caption text>
