@@ -1,7 +1,7 @@
 
 # Programmeren in Python
 
-```{figure} https://town-n-country-living.com/wp-content/uploads/2023/06/craftsman-exterior.jpg
+```{figure} figures/python_logo.jpeg
 ---
 width: 80%
 align: center
