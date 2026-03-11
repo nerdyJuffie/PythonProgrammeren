@@ -49,6 +49,7 @@ Welke van de onderstaande variabelenamen voldoen niet aan bovenstaande eisen? Le
 Als je de opgave gemaakt hebt kun je de uitwerking hier bekijken.
 ````{solution} my-exercise
 :label: my-solution
+:class: dropdown
 
 Hier is de oplossing:
 1.  voldoet
