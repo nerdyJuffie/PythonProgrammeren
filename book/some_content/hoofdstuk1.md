@@ -6,7 +6,7 @@ Dit hoofdstuk bestaat uit de volgende paragrafen:
 
    In deze paragraaf leg ik uit wat variabelen zijn, welk typen waarden variabelen kunnen bevatten en welke eisen er zijn aan de naamgeving van variabelen.
 
-2. Waarden toekennen en wijzigen
+2. [Waarden toekennen en wijzigen][toekennen_en_wijzigen.ipynb]
 
    In deze paragraaf ga ik uitleggen hoe je waarden aan een variabelen kunt toekennen en hoe je waarden kunt wijzigen en gebruiken we de eenvoudige printopdracht. 
 
