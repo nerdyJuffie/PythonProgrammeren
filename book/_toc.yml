@@ -13,6 +13,7 @@ parts:
     - file: some_content/hoofdstuk1.md
       sections:
       - file: some_content/variabelen.md
+      - file: some_content/toekennen_en_wijzigen.ipynb
       - file: some_content/text_and_code.ipynb
       - file: some_content/begrippen.md
   - caption: Exercises
