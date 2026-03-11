@@ -29,3 +29,36 @@ De naam van een variabele moet aan een aantal eisen voldoen:
 - mag alleen uit letters, cijfers en underscores (_) bestaan.
 - moet logisch zijn, beschrijvend.
 - indien bestaat uit meerdere woorden, dan begint ieder nieuw woord met een hoofdletter.
+
+
+```{exercise}
+:label: my-exercise
+
+Welke van de onderstaande variabelenamen voldoen niet aan bovenstaande eisen? Leg per naam die niet voldoet uit waarom niet!
+1.  classificatie 
+2.  Classificatie 
+3.  cl@ssificatie 
+4.	class1f1cat1e 
+5.	1classificatie 
+6.	_classificatie 
+7.	class
+8.	Class
+9.  PI
+```
+
+Als je de opgave gemaakt hebt kun je de uitwerking hier bekijken.
+````{solution} my-exercise
+:label: my-solution
+
+Hier is de oplossing:
+1.  voldoet
+2.  voldoet niet, want start met een hoofdletter
+3.  voldoet niet, bevat een verboden teken
+4.  voldoet niet, want een naam moet logisch en beschijvend zijn. Het is onlogisch om de 1-en middenin de tekst te stoppen.
+5.  voldoet niet, want het begint met een cijfer
+6.  voldoet, maar is onlogisch
+7.  voldoet niet, want class is een gereserveerd woord in Python
+8.  voldoet niet, want begint met een hoofdletter. Op moment dat het met een kleine letter is voldoet het niet, want gereserveerd woord.
+9.  voldoet. In python schrijven we constanten in CAPS (hoofdletters), om duidelijk het verschil tussen een gewone variabele en een constante aan te geven.
+
+````
