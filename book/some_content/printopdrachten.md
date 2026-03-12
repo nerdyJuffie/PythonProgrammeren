@@ -1,2 +1,4 @@
-# Printopdrachten nader uitgelegd
+# Printopdrachten nader uitgelegd  
+\n
+In de voorgaande voorbeelden 
 
