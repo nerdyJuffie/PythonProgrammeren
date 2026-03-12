@@ -11,7 +11,7 @@ parts:
           - file: some_content/variabelen
           - file: some_content/toekennen_en_wijzigen
           - file: some_content/oefeningen_variabelen_print
-          - file: some_content/text_and_code
+          - file: some_content/input
           - file: some_content/begrippen
   
   - caption: Exercises
