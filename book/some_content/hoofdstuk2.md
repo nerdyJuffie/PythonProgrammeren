@@ -1,1 +1,2 @@
-# Input door de gebruiker en rekenen
+# User input, rekenen met variabelen
+
