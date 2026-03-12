@@ -2,7 +2,7 @@ format: jb-book
 root: intro
 
 parts:
-  - caption: Part with some content
+  - caption: Cursus Python voor havo/vwo leerlingen
     numbered: false
     chapters:
       - file: some_content/overview
