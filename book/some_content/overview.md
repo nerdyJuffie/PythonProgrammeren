@@ -7,7 +7,7 @@ In deze cursus programmeren in Python leer je de basisbeginselen van programmere
 ## opbouw van de cursus
 
 1. [Variabelen declareren, toekennen en printen](hoofdstuk1.md)
-2. [User input](input.ipynb), rekenen met variabelen
+2. [User input, rekenen met variabelen](hoofdstuk2.md)
 3. Eenvoudig "leren rekenen" programma maken
 4. Strings en hun functies
 5. Afronden, machten en wortels
