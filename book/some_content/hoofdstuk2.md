@@ -9,3 +9,10 @@ Dit hoofdstuk behandelt de volgende paragrafen:
 Tot slot maak je de [oefeningen](oefeningen_rekenen.ipynb) en lever je deze in.
 
 ![rekenen in Python](book/figures/rekenen.png)
+```{figure} figures/rekenen.png
+---
+width: 50%
+align: center
+---
+<caption text>
+```
