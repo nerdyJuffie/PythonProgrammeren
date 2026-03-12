@@ -18,7 +18,5 @@ In dit bestand gebruiken we **MyST Markdown**. Dit ziet eruit als een gewoon tek
 Je kunt tekst aan elkaar plakken met het `+` teken. Dit noemen we concatenatie.
 
 ```{code-cell} python
-# Probeer de tekst aan te passen en klik op 'Run'
-tekst1 = "Programmeren is "
-tekst2 = "leuk!"
-print(tekst1 + tekst2)
+print("Dit is een echte interactieve cel")
+```
