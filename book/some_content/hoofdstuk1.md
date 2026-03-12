@@ -10,6 +10,6 @@ Dit hoofdstuk bestaat uit de volgende paragrafen:
 
    In deze paragraaf ga ik uitleggen hoe je waarden aan een variabelen kunt toekennen en hoe je waarden kunt wijzigen en gebruiken we de eenvoudige printopdracht. 
 
-3. [Printopdracht nader uitgelegd](printopdrachten.md)
+3. [Printopdracht nader uitgelegd](oefeningen_variabelen_print.ipynb)
 
    In dit laatste paragraafje kijken we nog even verder naar printopdrachten en sluiten we af met een paar kleine opdrachten.
