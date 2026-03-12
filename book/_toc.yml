@@ -11,6 +11,8 @@ parts:
           - file: some_content/variabelen
           - file: some_content/toekennen_en_wijzigen
           - file: some_content/oefeningen_variabelen_print
+      - file: some_content/hoofdstuk2
+        sections:
           - file: some_content/input
           - file: some_content/rekenen
           - file: some_content/oefeningen_rekenen.ipynb
