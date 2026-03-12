@@ -14,7 +14,7 @@ parts:
       sections:
       - file: some_content/variabelen.md
       - file: some_content/toekennen_en_wijzigen.ipynb
-      - file: oefeningen_variabelen_print.ipynb
+      - file: some_content/oefeningen_variabelen_print.ipynb
       - file: some_content/text_and_code.ipynb
       - file: some_content/begrippen.md
   - caption: Exercises
