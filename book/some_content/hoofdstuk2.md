@@ -8,7 +8,7 @@ Dit hoofdstuk behandelt de volgende paragrafen:
 
 Tot slot maak je de [input en output oefeningen](oefeningen_input_output.ipynb) en [rekenoefeningen](oefeningen_rekenen.ipynb) en lever je deze in.
 
-![rekenen in Python](book/figures/rekenen.png)
+![rekenen in Python](figures/rekenen.png)
 ```{figure} figures/rekenen.png
 ---
 width: 50%
