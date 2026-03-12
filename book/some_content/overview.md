@@ -3,7 +3,6 @@
 
 In deze cursus programmeren in Python leer je de basisbeginselen van programmeren in Python 3.0 . Ik ga met jullie stap voor stap de wereld in van programmeren in Python.
 
-
 ## opbouw van de cursus
 
 1. [Variabelen declareren, toekennen en printen](hoofdstuk1.md)
