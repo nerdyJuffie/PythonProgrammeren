@@ -5,3 +5,4 @@ print( ) gebruik je om _output_ te genereren op de console.
 
 Je kunt verschillende stukken tekst aan elkaar vastmaken met de + in een printopdracht, dit noemen we _concatenatie_.
 
+
