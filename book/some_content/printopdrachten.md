@@ -1,9 +1,3 @@
-# Printopdrachten nader uitgelegd  
-
-In de voorgaande voorbeelden heb je al een beetje het gebruik van het __print( )__ commando gezien.  
-print( ) gebruik je om _output_ te genereren op de console.
-
-Je kunt verschillende stukken tekst aan elkaar vastmaken met de + in een printopdracht, dit noemen we _concatenatie_.
 ---
 jupytext:
   formats: md:myst
@@ -28,5 +22,3 @@ Je kunt tekst aan elkaar plakken met het `+` teken. Dit noemen we concatenatie.
 tekst1 = "Programmeren is "
 tekst2 = "leuk!"
 print(tekst1 + tekst2)
-
-
