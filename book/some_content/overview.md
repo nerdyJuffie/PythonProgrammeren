@@ -7,15 +7,13 @@ In deze cursus programmeren in Python leer je de basisbeginselen van programmere
 
 1. [Variabelen declareren, toekennen en printen](hoofdstuk1.md)
 2. [User input, rekenen met variabelen](hoofdstuk2.md)
-3. Eenvoudig "leren rekenen" programma maken
-4. Strings en hun functies
-5. Afronden, machten en wortels
-6. To be or not to be ...Booleans
-7. Keuzes, keuzes, keuzes...ofwel if, elif, else
-8. Random variabelen, Steen papier schaar spelen tegen de computer
+3. Afronden, machten en wortels
+4. To be or not to be ...Booleans
+5. Keuzes, keuzes, keuzes...ofwel if, elif, else
+6. Random variabelen, Steen papier schaar spelen tegen de computer
 7. In de herhaling vallen ... while-loops
-9. Nog meer herhaling ... for-loops
-10. Nog een keer in de herhaling ... do..while-loops
-11. Lijsten, lijsten, lijsten ...arrays
-12. Doe meer met lijsten ... array functies
-13. Wrap it all up... Alles komt tezamen
+8. Nog meer herhaling ... for-loops
+9. Nog een keer in de herhaling ... do..while-loops
+10. Lijsten, lijsten, lijsten ...arrays
+11. Doe meer met lijsten ... array functies
+12. Wrap it all up... Alles komt tezamen
