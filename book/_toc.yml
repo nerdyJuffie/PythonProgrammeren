@@ -18,6 +18,7 @@ parts:
           - file: some_content/oefeneningen_input_output.ipynb
           - file: some_content/oefeningen_rekenen.ipynb
           - file: some_content/begrippen
+      - file: some_content/afronden_machten_wortels.md
   
   - caption: Exercises
     chapters:
