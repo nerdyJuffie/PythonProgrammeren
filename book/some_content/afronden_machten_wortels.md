@@ -1,6 +1,7 @@
 ```{code-cell} python
 import jupyterquiz
 print("JupyterQuiz is succesvol geladen!")
+```
 # Afronden, machten en wortels
 
 In dit hoofdstuk leer je hoe je in Python getallen bewerkt die verder gaan dan simpel optellen of aftrekken.
