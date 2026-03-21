@@ -26,11 +26,3 @@ Voor het trekken van wortels gebruik je meestal één van deze twee methoden:
 * **`** 0.5`**: Je kunt ook de machtsoperator gebruiken om een wortel te trekken (tot de macht 0.5 verheffen).
 
 ---
-
-## Test je kennis
-Beantwoord de onderstaande vragen om te kijken of je de stof begrijpt.
-
-```{code-cell} ipython3
-from jupyterquiz import display_quiz
-display_quiz("quiz_python_rekenen.json")
-
