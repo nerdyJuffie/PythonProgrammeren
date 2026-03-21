@@ -31,9 +31,6 @@ Voor het trekken van wortels gebruik je meestal één van deze twee methoden:
 Beantwoord de onderstaande vragen om te kijken of je de stof begrijpt.
 
 ```{code-cell} ipython3
-:tags: [remove-input]
-
-from jupyter_quiz import display_quiz
-
-# Hier roepen we het JSON bestand aan dat je hebt opgeslagen
+from jupyterquiz import display_quiz
 display_quiz("quiz_python_rekenen.json")
+
