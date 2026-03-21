@@ -21,7 +21,7 @@ parts:
       - file: some_content/rekenen_python.md
         sections:
           - file: some_content/rekenen2.ipynb
-          - file: some_content/quiz_python_rekenen.json
+          
     
   
   - caption: Miscellaneous
