@@ -19,38 +19,8 @@ parts:
           - file: some_content/oefeningen_rekenen.ipynb
           - file: some_content/begrippen
       - file: some_content/rekenen_python.md
-        sections:
-          - file: some_content/quiz_rekenen_python.json
-      
-  
-  - caption: Exercises
-    chapters:
-      - file: exercises
-        sections:
-          - file: exercises/001
-          - file: exercises/002
-          - file: exercises/003
-          - file: exercises/004
-          - file: exercises/005
-          - file: exercises/005a
-          - file: exercises/006
-          - file: exercises/summary
-      - file: syntax_exercises
-        sections:
-          - file: syntax_exercises/007
-          - file: syntax_exercises/008
-          - file: syntax_exercises/009
-          - file: syntax_exercises/010
-          - file: syntax_exercises/011
-          - file: syntax_exercises/012
-          - file: syntax_exercises/013
-      - file: extensions
-        sections:
-          - file: exercises/007
-          - file: extension_exercises/017
-          - file: extension_exercises/014
-          - file: extension_exercises/015
-          - file: extension_exercises/016
+        
+    
   
   - caption: Miscellaneous
     chapters:
