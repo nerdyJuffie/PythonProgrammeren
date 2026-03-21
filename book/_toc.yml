@@ -20,7 +20,7 @@ parts:
           - file: some_content/begrippen
       - file: some_content/rekenen_python.md
         sections:
-          - file: some_content/quiz_rekenen_python.jsom
+          - file: some_content/quiz_rekenen_python.json
       
   
   - caption: Exercises
