@@ -19,6 +19,8 @@ parts:
           - file: some_content/oefeningen_rekenen.ipynb
           - file: some_content/begrippen
       - file: some_content/rekenen_python.md
+        sections:
+          - file: some_content/rekenen2.ipynb
         
     
   
