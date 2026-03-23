@@ -24,6 +24,8 @@ parts:
       - file: some_content/hoofdstuk4
         sections:
           - file: some_content/if.ipynb
+          - file: some_content/if_else.ipynb
+          - file: some_content/oefeningen_if_else.ipynb
           
     
   
