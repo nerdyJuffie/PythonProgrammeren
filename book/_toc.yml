@@ -21,6 +21,9 @@ parts:
       - file: some_content/rekenen_python.md
         sections:
           - file: some_content/rekenen2.ipynb
+      - file: some_content/hoofdstuk4
+        sections:
+          - file: some_content/if.ipynb
           
     
   
