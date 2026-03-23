@@ -17,7 +17,7 @@ parts:
           - file: some_content/rekenen
           - file: some_content/oefeneningen_input_output
           - file: some_content/oefeningen_rekenen
-          - file: some_content/begrippen  
+          - file: some_content/rekenen2  
       - file: some_content/hoofdstuk3  
       - file: some_content/hoofdstuk4
         sections:
