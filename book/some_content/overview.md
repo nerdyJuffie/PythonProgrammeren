@@ -8,7 +8,7 @@ In deze cursus programmeren in Python leer je de basisbeginselen van programmere
 1. [Variabelen declareren, toekennen en printen](hoofdstuk1.md)
 2. [User input, rekenen met variabelen](hoofdstuk2.md)
 3. [Afronden, machten en wortels](rekenen.ipynb)
-4. To be or not to be ...Booleans
+4. [To be or not to be ...Booleans](hoofdstuk4.md)
 5. Keuzes, keuzes, keuzes...ofwel if, elif, else
 6. Random variabelen, Steen papier schaar spelen tegen de computer
 7. In de herhaling vallen ... while-loops
