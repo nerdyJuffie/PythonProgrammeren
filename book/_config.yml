@@ -18,9 +18,7 @@ html:
   use_repository_button: true
   use_download_button: true
 
-  # ⭐ ADD THIS SECTION ⭐
-  extra_files:
-    - some_content/quiz_python_rekenen.json
+  
 
 sphinx:
   extra_extensions:
