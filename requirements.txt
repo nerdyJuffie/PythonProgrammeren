@@ -1,5 +1,3 @@
-# Core TeachBooks dependencies
 jupyter-book
-
-# TeachBooks favourite Sphinx extensions
 git+https://github.com/TeachBooks/TeachBooks-Favourites
+git+https://github.com/TeachBooks/TeachBooks
