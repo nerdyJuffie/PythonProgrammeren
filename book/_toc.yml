@@ -17,8 +17,8 @@ parts:
           - file: some_content/rekenen
           - file: some_content/oefeneningen_input_output
           - file: some_content/oefeningen_rekenen
-          - file: some_content/rekenen2  
-      - file: some_content/hoofdstuk3  
+          - file: some_content/rekenen2
+      - file: some_content/hoofdstuk3
       - file: some_content/hoofdstuk4
         sections:
           - file: some_content/booleaans
@@ -29,10 +29,8 @@ parts:
           - file: some_content/if_else
           - file: some_content/oefeningen_if_else
           - file: some_content/if_elif_else
-          _ file: some_content/oefeningen_if_elif_else
-          
-    
-  
+          - file: some_content/oefeningen_if_elif_else
+
   - caption: Miscellaneous
     chapters:
       - file: references
