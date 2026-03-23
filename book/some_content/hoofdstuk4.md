@@ -9,3 +9,4 @@ width: 75%
 align: right
 ---
 ```
+afbeelding copyright/ Auteursrecht: © 14th Floor Apparel - 14thfloorapparel.com
