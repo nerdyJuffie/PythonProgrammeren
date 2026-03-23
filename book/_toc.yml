@@ -30,6 +30,8 @@ parts:
           - file: some_content/if
           - file: some_content/if_else
           - file: some_content/oefeningen_if_else
+          - file: some_content/if_elif_else
+          _ file: some_content/oefeningen_if_elif_else
           
     
   
