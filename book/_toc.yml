@@ -15,17 +15,21 @@ parts:
         sections:
           - file: some_content/input
           - file: some_content/rekenen
-          - file: some_content/oefeneningen_input_output.ipynb
-          - file: some_content/oefeningen_rekenen.ipynb
+          - file: some_content/oefeneningen_input_output
+          - file: some_content/oefeningen_rekenen
           - file: some_content/begrippen
-      - file: some_content/rekenen_python.md
+      - file: some_content/rekenen_python
         sections:
-          - file: some_content/rekenen2.ipynb
+          - file: some_content/rekenen2
       - file: some_content/hoofdstuk4
         sections:
-          - file: some_content/if.ipynb
-          - file: some_content/if_else.ipynb
-          - file: some_content/oefeningen_if_else.ipynb
+          - file: some_content/booleaans
+          - file: some_content/booleaans_oefenen
+      - file: some_content/hoofdstuk5
+        sections:
+          - file: some_content/if
+          - file: some_content/if_else
+          - file: some_content/oefeningen_if_else
           
     
   
