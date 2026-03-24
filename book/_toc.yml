@@ -35,9 +35,11 @@ parts:
       - file: some_content/hoofdstuk7.md
         sections:
           - file: some_content/while
-          - file: SPS_while
+          - file: some_content/SPS_while
           - file: oefeningen_while
       - file: some_content/hoofdstuk8
+        sections:
+          - file: some_content/for_loop
 
   - caption: Miscellaneous
     chapters:
