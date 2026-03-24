@@ -34,8 +34,10 @@ parts:
       - file: some_content/hoofdstuk6.ipynb
       - file: some_content/hoofdstuk7.md
         sections:
-          - file: some_content/while.ipynb
-          - file: SPS_while.ipynb
+          - file: some_content/while
+          - file: SPS_while
+          - file: oefeningen_while
+      - file: some_content/hoofdstuk8
 
   - caption: Miscellaneous
     chapters:
