@@ -2,4 +2,13 @@
 
 In dit hoofdstuk behandelen we eerst de theorie van de for -loop.  
 Vervolgens ga je weer Steen Papier Schaar aanpassen en tot slot maak je nog een aantal oefeningen die je weer inlevert in teams.
-![File:Flowgorithm For Loop.svg - Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flowgorithm_For_Loop.svg/1280px-Flowgorithm_For_Loop.svg.png?_=20190608124251)
+
+
+```{figure} https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flowgorithm_For_Loop.svg/1280px-Flowgorithm_For_Loop.svg.png?_=20190608124251
+---
+width: 75%
+align: right
+---
+```
+
+brond: Flowgorithm For Loop.svg - Wikimedia Commons 
