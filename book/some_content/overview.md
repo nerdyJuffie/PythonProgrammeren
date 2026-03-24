@@ -11,7 +11,7 @@ In deze cursus programmeren in Python leer je de basisbeginselen van programmere
 4. [To be or not to be ...Booleans](hoofdstuk4.md)
 5. [Keuzes, keuzes, keuzes...ofwel if, elif, else](hoofdstuk5.md)
 6. [Random variabelen, Steen papier schaar spelen tegen de computer](hoofdstuk6.ipynb)
-7. In de herhaling vallen ... while-loops
+7. [In de herhaling vallen ... while-loops](hoofdstuk7.md)
 8. Nog meer herhaling ... for-loops
 9. Nog een keer in de herhaling ... do..while-loops
 10. Lijsten, lijsten, lijsten ...arrays
