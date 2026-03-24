@@ -12,7 +12,7 @@ In deze cursus programmeren in Python leer je de basisbeginselen van programmere
 5. [Keuzes, keuzes, keuzes...ofwel if, elif, else](hoofdstuk5.md)
 6. [Random variabelen, Steen papier schaar spelen tegen de computer](hoofdstuk6.ipynb)
 7. [In de herhaling vallen ... while-loops](hoofdstuk7.md)
-8. Nog meer herhaling ... for-loops
+8. [Nog meer herhaling ... for-loops](hoofdstuk8.md)
 9. Functies in alle soorten en maten
 
 10. Wrap it all up... Alles komt tezamen
