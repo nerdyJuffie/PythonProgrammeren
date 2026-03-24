@@ -32,6 +32,10 @@ parts:
           - file: some_content/if_elif_else
           - file: some_content/oefeningen_if_elif_else
       - file: some_content/hoofdstuk6.ipynb
+      - file: some_content/hoofdstuk7.md
+        sections:
+          - file: some_content/while.ipynb
+          - file: SPS_while.ipynb
 
   - caption: Miscellaneous
     chapters:
