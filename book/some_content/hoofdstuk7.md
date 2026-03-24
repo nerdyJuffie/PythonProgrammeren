@@ -7,6 +7,6 @@ zijn er een aantal manieren om herhalingen van code weer te geven.
 
 In dit hoofdstuk behandelen we de [while loop](while.ipynb).  
 Verder ga je het spel [Steen-Papier-Schaar](SPS_while.ipynb) dat je eerder hebt gemaakt, zo aanpassen dat je het een aantal keren speelt.
-Tot slot maak je nog een aantal afsluitende opdrachten die je weer in teams inlevert.  
+Tot slot maak je nog een [aantal afsluitende opdrachten](oefeningen_while.ipynb) die je weer in teams inlevert.  
 
 ![stroomdiagram van een while loop](../figures/whileloopflowchart.png)
