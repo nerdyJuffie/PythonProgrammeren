@@ -48,6 +48,7 @@ parts:
       - file: some_content/hoofdstuk10
         sections:
           - file: some_content/snackmachine
+          - file: some_content/treinreisplanner
 
   - caption: Miscellaneous
     chapters:
