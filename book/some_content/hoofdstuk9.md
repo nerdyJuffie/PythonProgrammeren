@@ -9,7 +9,7 @@ Soms is het handiger en overzichtelijker als je in plaats van hele lappen code i
 De algemene syntax voor een functie:
 > \# parameterloze functie  
 > def functienaam():  
-> 	\# hier komt de code die de functie uit moet voeren
+> 	  \# hier komt de code die de functie uit moet voeren
 
 ```python
 def begroeting():
