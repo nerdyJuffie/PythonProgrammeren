@@ -43,6 +43,8 @@ parts:
           - file: some_content/SPS_for_loop
           - file: some_content/oefeningen_for_loop
       - file: some_content/hoofdstuk9
+        sections:
+          - file: some_conte/SPS_functies
 
   - caption: Miscellaneous
     chapters:
