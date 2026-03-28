@@ -45,6 +45,9 @@ parts:
       - file: some_content/hoofdstuk9
         sections:
           - file: some_content/SPS_functies.ipynb
+      - file: some_content/hoofdstuk10
+        sections:
+          - file: some_content/snackmachine
 
   - caption: Miscellaneous
     chapters:
