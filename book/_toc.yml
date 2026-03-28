@@ -40,6 +40,7 @@ parts:
       - file: some_content/hoofdstuk8
         sections:
           - file: some_content/for_loop
+          - file: some_content/SPS_for_loop
           - file: some_content/oefeningen_for_loop
 
   - caption: Miscellaneous
