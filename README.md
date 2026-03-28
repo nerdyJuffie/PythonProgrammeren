@@ -58,12 +58,12 @@ This tool's repository is stored on [GitHub](https://github.com/TeachBooks/templ
 ## Template README
 > Remove all of the above after you've taken this template and followed the instructions. The following lines are a template for your own README
 
-# `<Book title>`
+# `Python Programmeren`
 
-`<description of book's content en target audience>`
+`Een cursus programmeren in Python voor leerlingen in havo/ vwo bovenbouw met of zonder informatica in hun programma. Ze leren de basis om eenvoudige programmaatjes mee te schrijven. Ik heb met heel veel plezier aan dit teachbook gewerkt. Ik hoop dat de leerlingen ook plezier zullen hebben met het maken van de opdrachten.`
 
 ## Contributors
-- `<list authors>`
+- `Ir. Petra van Horen`
 
 ## Reuse content
 Feel free to reuse this content or contribute to it. Please give appropriate credit, provide a link to the license, and indicate if changes were made ([CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/))
