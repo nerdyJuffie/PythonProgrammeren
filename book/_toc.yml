@@ -44,7 +44,7 @@ parts:
           - file: some_content/oefeningen_for_loop
       - file: some_content/hoofdstuk9
         sections:
-          - file: some_content/SPS_functies
+          - file: some_content/SPS_functies.ipynb
 
   - caption: Miscellaneous
     chapters:
