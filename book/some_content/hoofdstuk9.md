@@ -18,9 +18,9 @@ begroeting()
 ```
 
 Zoals je ziet is de uitkomst vrij statisch. Iedere keer wordt het identieke geprint.  
-Een parameterloze functie voert altijd dezelfde vaste taak uit. Je gebruikt ze bijvoorbeeld voor het printen van een begroeting, een vaste berekening of een menu.
+Een *parameterloze functie* voert altijd dezelfde vaste taak uit. Je gebruikt ze bijvoorbeeld voor het printen van een begroeting, een vaste berekening of een menu.
 
-Een functie met een of meer parameters is veel dynamischer. Je geeft waarden mee, parameters genoemd, waardoor de uitkomst steeds verschillend is. Het maakt dat de functie daardoor ook goed herbruikbaar.  
+Een functie met een of meer *parameters* is veel dynamischer. Je geeft waarden mee, parameters genoemd, waardoor de uitkomst steeds verschillend is. Het maakt dat de functie daardoor ook goed herbruikbaar.  
 
 >\# functie met 1 parameter en een return waarde  
 >def functienaam(parameter):  
@@ -41,7 +41,7 @@ yards = meters_yards_omrekenen(meters)
 print(f"{meters} meter is gelijk aan {yards} yards")
 ```
 
-In het bovenstaand codevoorbeeld geeft de functie een retourwaarde, die als toekenning wordt meegegeven aan een variabele. Zoals je ziet is de functie ook heel goed herbruikbaar. 
+In het bovenstaand codevoorbeeld geeft de functie een retourwaarde (met *return*), die als toekenning wordt meegegeven aan een variabele. Zoals je ziet is de functie ook heel goed herbruikbaar. 
 Een functie met een parameter kan ook meerdere parameters hebben. Iedere parameter moet je dan aangeven met een logische naam en die wordt dan ook in de code binnen de functie aangeroepen. Een functie met een parameter hoeft geen return waarde te hebben, zoals je in het volgende codeblok zult zien.
 
 ```{python}
