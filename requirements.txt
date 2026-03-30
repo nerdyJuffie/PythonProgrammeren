@@ -1,3 +1,4 @@
 jupyter-book
 git+https://github.com/TeachBooks/TeachBooks-Favourites
 git+https://github.com/TeachBooks/TeachBooks
+jupyterlite-sphinx>=0.13.0
