@@ -15,7 +15,7 @@ execute:
 
 launch_buttons:
   jupyterlite: true 
-  thebe: true
+  thebe: false
   notebook_interface: "classic"
 
 html:
