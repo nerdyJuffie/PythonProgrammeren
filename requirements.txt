@@ -1,9 +1,13 @@
-# Benodigdheden voor het bouwen van het boek
+# Basis
 jupyter-book
 jupyterlite-sphinx>=0.13.0
 jupyterlite-pyodide-kernel
 
-# Bibliotheken die leerlingen in de browser kunnen gebruiken
+# TeachBooks extensies via GitHub (om de ERROR te voorkomen)
+git+https://github.com/TeachBooks/teachbooks-favourites.git
+sphinx-exercise
+
+# Leerling omgeving
 numpy
 matplotlib
 pandas
