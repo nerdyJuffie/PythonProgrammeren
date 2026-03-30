@@ -14,28 +14,27 @@ execute:
   allow_errors: false
 
 launch_buttons:
-  jupyterlite: true  # Voegt de specifieke JupyterLite knop toe
+  jupyterlite: true  # De raket-optie voor JupyterLite
+  thebe: true        # Dwingt de raket te verschijnen, zelfs op tekstpagina's
+  notebook_interface: "classic" # Zorgt voor een vertrouwde interface
 
 html:
   use_multitoc_numbering: true
   use_repository_button: true
   use_download_button: true
-  use_thebe: true    # Nodig voor de interactieve interface
+  use_thebe: true    # Activeert de achtergrond-engine voor interactie
 
 sphinx:
   extra_extensions:
     - teachbooks_favourites
     - sphinx_exercise
-    - jupyterlite_sphinx     # Essentieel voor JupyterLite ondersteuning
+    - jupyterlite_sphinx
   config:
     language: nl
     html_js_files:
       - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
-    
-    
     thebe_config:
-      use_thebe_lite: true   # Koppelt Thebe aan de JupyterLite kernel
-    
+      use_thebe_lite: true
     html_favicon: "figures/TB_favicon.ico"
     html_baseurl: "https://nerdyjuffie.github.io/PythonProgrammeren"
     html_theme_options:
