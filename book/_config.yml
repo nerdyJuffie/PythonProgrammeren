@@ -3,7 +3,7 @@
 repository:
   url: https://github.com/nerdyJuffie/PythonProgrammeren
   path_to_book: ""
-  branch: main
+  branch: PythonProgrammeren2  # <--- DIT MOET OVEREENKOMEN MET JE BRANCH
 
 author: TeachBooks Team, built with <a href="https://teachbooks.io">TeachBooks</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer"">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt=""></a>
 
@@ -14,15 +14,15 @@ execute:
   allow_errors: false
 
 launch_buttons:
-  jupyterlite: true  # De raket-optie voor JupyterLite
-  thebe: true        # Dwingt de raket te verschijnen, zelfs op tekstpagina's
-  notebook_interface: "classic" # Zorgt voor een vertrouwde interface
+  jupyterlite: true 
+  thebe: true
+  notebook_interface: "classic"
 
 html:
   use_multitoc_numbering: true
   use_repository_button: true
   use_download_button: true
-  use_thebe: true    # Activeert de achtergrond-engine voor interactie
+  use_thebe: true 
 
 sphinx:
   extra_extensions:
@@ -36,7 +36,8 @@ sphinx:
     thebe_config:
       use_thebe_lite: true
     html_favicon: "figures/TB_favicon.ico"
-    html_baseurl: "https://nerdyjuffie.github.io/PythonProgrammeren"
+    # LET OP: Gebruik de basis-URL van de repo, GitHub regelt de rest
+    html_baseurl: "https://nerdyjuffie.github.io/PythonProgrammeren/"
     html_theme_options:
       logo:
         text: Programmeren in Python
