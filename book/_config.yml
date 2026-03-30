@@ -43,3 +43,7 @@ sphinx:
         text: Programmeren in Python
         image_light: TeachBooks_logo.svg
         image_dark: TeachBooks_logo.svg
+
+jupiterlite:
+  enabled: true
+  type: lite
