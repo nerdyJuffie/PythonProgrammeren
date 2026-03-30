@@ -1,4 +1,4 @@
-# TeachBooks / JupyterBook configuration
+# This config includes an opinionated list of configuration options of TeachBooks, Jupyterbook v1, Sphinx and other extensions part of TeachBooks-Favourites.
 
 repository:
   url: https://github.com/nerdyJuffie/PythonProgrammeren
@@ -17,7 +17,8 @@ html:
   use_multitoc_numbering: true
   use_repository_button: true
   use_download_button: true
-  use_thebe: true   # <— BELANGRIJK: activeert Thebe
+
+  
 
 sphinx:
   extra_extensions:
@@ -29,12 +30,15 @@ sphinx:
       - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
     thebe_config:
       use_thebe_lite: true
-      # ❗ PROBLEEMREGEL VERWIJDERD:
-      # exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
-      # Hierdoor worden .ipynb-bestanden NIET meer uitgesloten
+      exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
     html_favicon: "figures/TB_favicon.ico"
     html_baseurl: "https://nerdyjuffie.github.io/PythonProgrammeren"
     html_theme_options:
+      logo:
+        text: Programmeren in Python
+        image_light: TeachBooks_logo.svg
+        image_dark: TeachBooks_logo_inverted.svg
+      repository_url: "https://github.com/nerdyJuffie/PythonProgrammeren"    html_theme_options:
       logo:
         text: Programmeren in Python
         image_light: TeachBooks_logo.svg
