@@ -1,7 +1,11 @@
 title: Programmeren in Python
 author: TeachBooks Team, built with <a href="https://teachbooks.io">TeachBooks</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer"">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt=""></a>
 
-# Verwijder de 'repository:' sectie bovenaan volledig om verwarring te voorkomen
+# 1. Algemene repository instellingen (Nodig voor de 'ValueError' fix)
+repository:
+  url: https://github.com/nerdyJuffie/PythonProgrammeren
+  path_to_book: ""
+  branch: PythonProgrammeren2
 
 execute:
   execute_notebooks: "off"
@@ -14,6 +18,7 @@ html:
   use_repository_button: true
   use_download_button: true
 
+# 2. Specifieke thema en raket instellingen
 sphinx:
   config:
     html_js_files:
@@ -21,7 +26,6 @@ sphinx:
     thebe_config:
       use_thebe_lite: true
     html_theme_options:
-      # HIER MOET DE URL STAAN:
       repository_url: "https://github.com/nerdyJuffie/PythonProgrammeren"
       path_to_docs: ""
       repository_branch: "PythonProgrammeren2"
