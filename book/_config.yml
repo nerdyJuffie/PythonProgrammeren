@@ -17,6 +17,7 @@ html:
   use_multitoc_numbering: true
   use_repository_button: true
   use_download_button: true
+  use_thebe: true
 
   
 
@@ -39,3 +40,10 @@ sphinx:
         image_light: TeachBooks_logo.svg
         image_dark: TeachBooks_logo_inverted.svg
       repository_url: "https://github.com/nerdyJuffie/PythonProgrammeren"
+
+launch_buttons:
+  thebe: true
+
+thebe:
+  use_thebe_lab: true
+
