@@ -1,4 +1,9 @@
+# Benodigdheden voor het bouwen van het boek
 jupyter-book
-git+https://github.com/TeachBooks/TeachBooks-Favourites
-git+https://github.com/TeachBooks/TeachBooks
 jupyterlite-sphinx>=0.13.0
+jupyterlite-pyodide-kernel
+
+# Bibliotheken die leerlingen in de browser kunnen gebruiken
+numpy
+matplotlib
+pandas
