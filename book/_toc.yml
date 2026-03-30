@@ -8,7 +8,6 @@ parts:
       - file: some_content/overview
       - file: some_content/hoofdstuk1
         sections:
-          - file: some_content/test_interactief  # <--- Voeg deze regel toe
           - file: some_content/variabelen
           - file: some_content/toekennen_en_wijzigen
           - file: some_content/oefeningen_variabelen_print
