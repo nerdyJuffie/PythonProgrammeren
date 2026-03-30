@@ -22,7 +22,7 @@ html:
   use_multitoc_numbering: true
   use_repository_button: true
   use_download_button: true
-  use_thebe: true 
+  use_thebe: false 
 
 sphinx:
   extra_extensions:
