@@ -3,6 +3,21 @@
 
 In deze cursus programmeren in Python leer je de basisbeginselen van programmeren in Python 3.0 . Ik ga met jullie stap voor stap de wereld in van programmeren in Python.
 
+> ### 🚀 Maak dit boek interactief!
+> In dit boek kun je zelf code schrijven en uitvoeren zonder iets te installeren. 
+> 1. Klik rechtsboven op het **Raket-icoontje**.
+> 2. Kies voor **Live Code** (Thebe).
+> 3. Wacht tot er "Status: Ready" verschijnt. 
+> 4. Je kunt nu de codeblokken hieronder aanpassen en op **Run** klikken!
+
+```python
+# Klik op 'Run' nadat je de Live Code hebt geactiveerd!
+naam = "leerling" 
+print(f"Hallo {naam}, succes met je eerste stappen in Python!")
+```
+
+---
+
 ## opbouw van de cursus
 
 1. [Variabelen declareren, toekennen en printen](hoofdstuk1.md)
