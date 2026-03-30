@@ -32,7 +32,7 @@ parts:
           - file: some_content/if_elif_else
           - file: some_content/oefeningen_if_elif_else
       - file: some_content/hoofdstuk6
-      - file: some_content/hoofdstuk7.md
+      - file: some_content/hoofdstuk7
         sections:
           - file: some_content/while
           - file: some_content/SPS_while
