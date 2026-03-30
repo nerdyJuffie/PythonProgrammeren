@@ -1,49 +1,40 @@
-# TeachBooks / JupyterBook configuration
-
-repository:
-  url: https://github.com/nerdyJuffie/PythonProgrammeren
-  path_to_book: ""
-  branch: PythonProgrammeren2  # <--- DIT MOET OVEREENKOMEN MET JE BRANCH
-
+title: Programmeren in Python
 author: TeachBooks Team, built with <a href="https://teachbooks.io">TeachBooks</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer"">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt=""></a>
 
 execute:
-  execute_notebooks: "auto"
-  exclude_patterns: []
-  timeout: 30
-  allow_errors: false
+  execute_notebooks: "off"
 
-launch_buttons:
-  jupyterlite: true 
-  thebe: false
-  notebook_interface: "classic"
+only_build_toc_files: true
 
 html:
-  use_multitoc_numbering: true
+  favicon: "figures/TB_favicon.ico"
+  baseurl: "https://nerdyjuffie.github.io/PythonProgrammeren/"
   use_repository_button: true
   use_download_button: true
-  use_thebe: false 
 
 sphinx:
-  extra_extensions:
-    - teachbooks_favourites
-    - sphinx_exercise
-    - jupyterlite_sphinx
   config:
-    language: nl
     html_js_files:
-      - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
+    - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
     thebe_config:
       use_thebe_lite: true
-    html_favicon: "figures/TB_favicon.ico"
-    # LET OP: Gebruik de basis-URL van de repo, GitHub regelt de rest
-    html_baseurl: "https://nerdyjuffie.github.io/PythonProgrammeren/"
     html_theme_options:
+      repository_url: "https://github.com/nerdyJuffie/PythonProgrammeren"
+      path_to_docs: ""
+      repository_branch: "PythonProgrammeren2"
+      use_edit_page_button: false
+      use_repository_button: true
+      use_issues_button: false
+      # HIER STAAT DE RAKET NU GOED:
+      launch_buttons:
+        thebe: true
+        jupyterlite: true
       logo:
         text: Programmeren in Python
         image_light: TeachBooks_logo.svg
         image_dark: TeachBooks_logo.svg
-
-jupyterlite:
-  enabled: true
-  type: lite
+    html_show_copyright: false
+  extra_extensions:
+    - teachbooks_favourites
+    - sphinx_exercise
+    - jupyterlite_sphinx
