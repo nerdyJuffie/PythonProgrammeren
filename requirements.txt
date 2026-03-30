@@ -1,9 +1,12 @@
+# De ontbrekende tool voor het bouw-commando
+teachbooks
+
 # Basis
 jupyter-book
 jupyterlite-sphinx>=0.13.0
 jupyterlite-pyodide-kernel
 
-# TeachBooks extensies via GitHub (om de ERROR te voorkomen)
+# TeachBooks extensies via GitHub
 git+https://github.com/TeachBooks/teachbooks-favourites.git
 sphinx-exercise
 
