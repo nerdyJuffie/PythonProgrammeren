@@ -1,15 +1,8 @@
-# Basis voor het bouwen van het boek
 jupyter-book
-
-# JupyterLite ondersteuning
 jupyterlite-sphinx>=0.13.0
 jupyterlite-pyodide-kernel
-
-# Specifieke TeachBooks/Sphinx extensies (staan in je _config.yml)
 teachbooks-favourites
 sphinx-exercise
-
-# Bibliotheken voor de leerlingen (in de browser)
 numpy
 matplotlib
 pandas
