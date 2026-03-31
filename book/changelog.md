@@ -4,7 +4,8 @@
  [booleaanse logica uitwerking](booleaanse_logica_uitwerking.ipynb) toegevoegd  
  [booleaans oefenen](booleaans_oefenen.ipynb) aangepast met link naar booleaanse logica uitwerking  
  [if](if.ipynb) aangepast met uitwerking  
- [geavanceerde if-elif-else](oefeningen_if_elif_else.ipynb)
+ [geavanceerde if-elif-else](oefeningen_if_elif_else.ipynb) uitwerkingen toegevoegd
+ [hoofdstuk6](hoofdstuk6.ipynb) uitwerkingen toegevoegd 
  
  
   
