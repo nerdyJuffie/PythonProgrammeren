@@ -23,6 +23,8 @@ parts:
           - file: some_content/rekenen2
           - file: some_content/verkorte_operatoren
       - file: some_content/hoofdstuk3
+        sections:
+          - file: some_content/oefeningen_hoofdstuk3
       - file: some_content/hoofdstuk4
         sections:
           - file: some_content/booleaans
