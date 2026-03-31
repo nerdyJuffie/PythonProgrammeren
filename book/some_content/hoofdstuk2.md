@@ -10,7 +10,7 @@ Dit hoofdstuk behandelt de volgende paragrafen:
 4. [Verkorte operatoren](verkorte_operatoren.ipynb)
    Wat zijn verkorte operatoren en hoe kunnen we ze gebruiken.
 
-Tot slot maak je de [input en output oefeningen](input_output_oefeningen.ipynb) en [rekenoefeningen](oefeningen_rekenen.ipynb) en lever je deze in.
+Tot slot maak je de [input en output oefeningen](input_output_oefeningen.ipynb) en [rekenoefeningen](rekenen_oefenen.ipynb).
 
 ```{figure} ../figures/rekenen.png
 ---
