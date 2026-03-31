@@ -18,7 +18,8 @@ parts:
           - file: some_content/rekenen
           #- file: some_content/oefeneningen_input_output
           - file: some_content/input_output_oefeningen
-          - file: some_content/oefeningen_rekenen
+         # - file: some_content/oefeningen_rekenen
+          - file: some_content/rekenen_oefenen
           - file: some_content/rekenen2
           - file: some_content/verkorte_operatoren
       - file: some_content/hoofdstuk3
