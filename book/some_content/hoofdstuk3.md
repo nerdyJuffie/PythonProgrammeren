@@ -26,3 +26,5 @@ Voor het trekken van wortels gebruik je meestal één van deze twee methoden:
 * **`** 0.5`**: Je kunt ook de machtsoperator gebruiken om een wortel te trekken (tot de macht 0.5 verheffen).
 
 ---
+
+### Maak nu op de volgende bladzijde de oefeningen en controleer jezelf.
