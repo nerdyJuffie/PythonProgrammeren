@@ -1,11 +1,16 @@
 # Changelog
 
-## `Laatste versie`: `28 maart 2026`
-- `<Added/modified/deleted>` [](`<relative link to changed file>`)
+## `Laatste versie`: 31 maart 2026
+ [booleaanse logica uitwerking](booleaanse_logica_uitwerking.ipynb) toegevoegd
+ [booleaans oefenen](booleaans_oefenen.ipynb) aangepast met link naar booleaanse logica uitwerking
+ [if](if.ipynb) aangepast met uitwerking
+ 
+ 
+  
 - ...
 - Full Changelog: `[<previous version>...<current version>](<link to diff as provided by GitHub>)`
 
-## `<previous version>`: <...>
-- <...>
+## `previous version`: 
+- 28 maart 2026
 
 <...>
