@@ -6,6 +6,7 @@
  [if](if.ipynb) aangepast met uitwerking  
  [geavanceerde if-elif-else](oefeningen_if_elif_else.ipynb) uitwerkingen toegevoegd
  [hoofdstuk6](hoofdstuk6.ipynb) uitwerkingen toegevoegd 
+ [uitwerkingen oefeningen for-loops](uitwerkingen_for_loops.ipynb) toegevoegd
  
  
   
