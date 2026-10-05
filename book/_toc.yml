@@ -5,6 +5,7 @@ parts:
   - caption: Cursus Python voor havo/vwo leerlingen
     numbered: false
     chapters:
+      - file: some_content/skillstree
       - file: some_content/overview
       - file: some_content/hoofdstuk1
         sections:
