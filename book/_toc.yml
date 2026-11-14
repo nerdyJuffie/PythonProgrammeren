@@ -63,4 +63,3 @@ parts:
       - file: references
       - file: changelog
       - file: credits
-      - file: some_content/skillstree
