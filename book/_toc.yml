@@ -43,7 +43,7 @@ parts:
         sections:
           - file: some_content/while
           - file: some_content/SPS_while
-          - file: oefeningen_while
+          - file: some_content/oefeningen_while
       - file: some_content/hoofdstuk8
         sections:
           - file: some_content/for_loop
