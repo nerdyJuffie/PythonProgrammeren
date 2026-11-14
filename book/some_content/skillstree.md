@@ -1,40 +1,37 @@
----
-layout: page
-title: 🌲 Python Skill Tree
-permalink: /skilltree/
----
+<style>
+  .markmap { position: relative; margin-bottom: 30px; }
+  .markmap > svg {
+    width: 100%;
+    height: 600px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+</style>
 
-<!-- Markmap bibliotheken laden -->
-<script src="https://jsdelivr.net"></script>
-<script src="https://jsdelivr.net"></script>
-<script src="https://jsdelivr.net"></script>
+<script>
+  /* Opties voor de autoloader: moet vóór het laden van het script staan */
+  window.markmap = { autoLoader: { toolbar: true } };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/markmap-autoloader@latest"></script>
 
-<div class="skilltree-wrapper">
-  <h1>🌲 Interactieve Python Skill Tree</h1>
-  <p>Klik op de cirkels/knooppunten om takken in of uit te klappen. Gebruik je muiswiel om te zoomen.</p>
-  
-  <!-- De container waar de boom in getekend wordt -->
-  <svg id="mindmap" style="width: 100%; height: 500px; border: 1px solid #ddd; border-radius: 8px; background: #fafafa;"></svg>
-</div>
-
-<!-- Hieronder staat jouw data in Markdown-formaat. Pas dit gerust aan! -->
-<script id="markmap-data" type="text/template">
+<div class="markmap">
+<script type="text/template">
 # 🐍 Python 4 Havo
 
 ## 📘 H1: De Basis
-### 📖 [Theorie H1](https://github.io)
+### 📖 [Theorie H1](hoofdstuk1.html)
 ### 🥉 Brons: Paspoort-Script
 #### 🎯 Doel: Variabelen & input()
-#### 📺 [Bekijk Video](https://youtube.com)
+#### 📺 [Bekijk Video](https://www.youtube.com/)
 ### 🥈 Zilver: Story Generator
 #### 🎯 Doel: f-strings gebruiken
-#### 📺 [Bekijk Video](https://youtube.com)
+#### 📺 [Bekijk Video](https://www.youtube.com/)
 ### 🥇 Goud: Factuurgenerator
 #### 🎯 Doel: Rekenen & Type Casting
-#### 📺 [Bekijk Video](https://youtube.com)
+#### 📺 [Bekijk Video](https://www.youtube.com/)
 
 ## 📗 H2: Beslissingen (If/Else)
-### 📖 [Theorie H2](https://github.io)
+### 📖 [Theorie H2](hoofdstuk5.html)
 ### 🥉 Brons: Toegangscode
 #### 🎯 Doel: Vergelijkingsoperators
 ### 🥈 Zilver: Cijfer-Beoordelaar
@@ -43,46 +40,9 @@ permalink: /skilltree/
 #### 🎯 Doel: Nested conditions
 
 ## 📙 H3: Herhaling (Loops)
-### 📖 [Theorie H3](https://github.io)
+### 📖 [Theorie H3](hoofdstuk7.html)
 ### 🥉 Brons: Teltrainer
 ### 🥈 Zilver: Raad het Getal
 ### 🥇 Goud: Wachtwoord Validator
 </script>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    // 1. Haal de Markdown data op uit het script-element
-    const markdownData = document.getElementById('markmap-data').textContent;
-    
-    // 2. Initialiseer de Markmap transformer
-    const { Markmap, loadCSS, loadJS, Transformer } = window.markmap;
-    const transformer = new Transformer();
-    const { root, features } = transformer.transform(markdownData);
-    
-    // 3. Render de mindmap in de SVG
-    const svgElement = document.getElementById('mindmap');
-    const mm = Markmap.create(svgElement, {
-      autoFit: true,
-      duration: 500
-    }, root);
-
-    // 4. Voeg een handige toolbar toe (Inzoomen, Uitzoomen, Reset)
-    const { Toolbar } = window.markmap;
-    const toolbar = Toolbar.create(mm);
-    toolbar.attach();
-    svgElement.parentElement.appendChild(toolbar.render());
-  });
-</script>
-
-<style>
-  /* Zorgt ervoor dat de toolbar netjes linksonder de mindmap zweeft */
-  .markmap-toolbar {
-    position: relative;
-    margin-top: -40px;
-    margin-left: 10px;
-    z-index: 10;
-  }
-  .skilltree-wrapper {
-    margin-bottom: 30px;
-  }
-</style>
+</div>
