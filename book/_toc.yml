@@ -22,6 +22,7 @@ parts:
          # - file: some_content/oefeningen_rekenen
           - file: some_content/rekenen_oefenen
           - file: some_content/rekenen2
+          - file: some_content/rekenen2_parsons
           - file: some_content/verkorte_operatoren
       - file: some_content/hoofdstuk3
         sections:
