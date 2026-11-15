@@ -1,0 +1,68 @@
+format: jb-book
+root: intro
+
+parts:
+  - caption: Cursus Python voor havo/vwo leerlingen
+    numbered: false
+    chapters:
+      - file: some_content/skillstree.md
+        title: "🌲 Python Skill Tree"
+      - file: some_content/overview
+      - file: some_content/hoofdstuk1
+        sections:
+          - file: some_content/variabelen
+          - file: some_content/toekennen_en_wijzigen
+        #  - file: some_content/oefeningen_variabelen_print
+          - file: some_content/variabelen_printen_oefenen
+          - file: some_content/variabelen_parsons
+      - file: some_content/hoofdstuk2
+        sections:
+          - file: some_content/input
+          - file: some_content/rekenen
+          #- file: some_content/oefeneningen_input_output
+          - file: some_content/input_output_oefeningen
+          - file: some_content/input_output_fouten
+         # - file: some_content/oefeningen_rekenen
+          - file: some_content/rekenen_oefenen
+          - file: some_content/rekenen2
+          - file: some_content/rekenen2_parsons
+          - file: some_content/verkorte_operatoren
+      - file: some_content/hoofdstuk3
+        sections:
+          - file: some_content/oefeningen_hoofdstuk3
+      - file: some_content/hoofdstuk4
+        sections:
+          - file: some_content/booleaans
+          - file: some_content/booleaans_oefenen
+      - file: some_content/hoofdstuk5
+        sections:
+          - file: some_content/if
+          - file: some_content/if_else
+          - file: some_content/oefeningen_if_else
+          - file: some_content/if_elif_else
+          - file: some_content/oefeningen_if_elif_else
+      - file: some_content/hoofdstuk6
+      - file: some_content/hoofdstuk7
+        sections:
+          - file: some_content/while
+          - file: some_content/SPS_while
+          - file: some_content/oefeningen_while
+      - file: some_content/hoofdstuk8
+        sections:
+          - file: some_content/for_loop
+          - file: some_content/SPS_for_loop
+          - file: some_content/oefeningen_for_loop
+      - file: some_content/hoofdstuk9
+        sections:
+          - file: some_content/SPS_functies.ipynb
+      - file: some_content/hoofdstuk10
+        sections:
+          - file: some_content/snackmachine
+          - file: some_content/treinreisplanner
+          - file: some_content/raadt_het_getal
+
+  - caption: Miscellaneous
+    chapters:
+      - file: references
+      - file: changelog
+      - file: credits
