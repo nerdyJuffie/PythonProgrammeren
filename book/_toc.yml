@@ -6,6 +6,7 @@ parts:
     numbered: false
     chapters:
       - file: some_content/skillstree.md
+        title: "🌲 Python Skill Tree"
       - file: some_content/overview
       - file: some_content/hoofdstuk1
         sections:
@@ -13,6 +14,7 @@ parts:
           - file: some_content/toekennen_en_wijzigen
         #  - file: some_content/oefeningen_variabelen_print
           - file: some_content/variabelen_printen_oefenen
+          - file: some_content/variabelen_parsons
       - file: some_content/hoofdstuk2
         sections:
           - file: some_content/input
